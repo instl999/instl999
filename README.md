@@ -2,7 +2,7 @@
 
 Practical tools for agent-assisted media production, research, desktop interaction, game mods and monitoring.
 
-Browse my public original projects by category below. Each repository includes English documentation and its own setup instructions.
+Browse my public original projects by category below. Open a project for its source code, documentation and setup instructions.
 
 ## Video and Visual Creation
 
